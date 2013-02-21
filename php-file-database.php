@@ -9,7 +9,7 @@ a88aaaa    dP 88 .d8888b. 88     88 .d8888b. d8888P .d8888b. 88d888b. .d8888b. .
  dP        dP dP `88888P' 8888888P  `88888P8   dP   `88888P8 88Y8888' `88888P8 `88888P' `88888P' 
 ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 
-	A tiny PHP class to store information in files as a JSON array.
+	A tiny class to store PHP arrays into JSON files
 
  * @author      Xavi Esteve <xavi@xaviesteve.com>
  * @copyright   2013 Xavi Esteve

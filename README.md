@@ -1,7 +1,7 @@
 PHP File Database
 ====================
 
-A tiny PHP class to store information in files as a JSON array.
+A tiny class to store PHP arrays into JSON files
 
 
 Example
@@ -32,4 +32,4 @@ $db = $fdb->set($db);</pre>
 Performance note
 --------------------
 
-PHP File Database is great when you need to store less than 50-100 rows and a MySQL database would be too much of a hassle. If you are working with a lot of data or need to do complex queries, an SQL database would be the way to go.
+PHP File Database is great when you need to store information but a MySQL database would be too much of a hassle. If you are working with a lot of data or need to do complex queries, an SQL database is the way to go.
