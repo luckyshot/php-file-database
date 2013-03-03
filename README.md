@@ -26,7 +26,7 @@ $db['colors'] = array(
 );
 
 // Now save it back
-$db = $fdb->set($db);</pre>
+$fdb->set($db);</pre>
 
 
 Performance note
