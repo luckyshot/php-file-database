@@ -32,4 +32,6 @@ $fdb->set($db);</pre>
 Performance note
 --------------------
 
-PHP File Database is great when you need to store information but a MySQL database would be too much of a hassle. If you are working with a lot of data or need to do complex queries, an SQL database is the way to go.
+PHP File Database is great when you need to store information in situations where a MySQL database would be too much of a hassle. 
+
+If you are working with increasing data, need to do searches or complex queries, then an SQL database is the way to go.
